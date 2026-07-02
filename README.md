@@ -14,11 +14,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdulrehman-softwaredev/"><img width="42px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Abdul-Rehman420/Abdul-Rehman420/blob/main/icons8-linkedin-48.png"/></a>
+  <a href="https://www.linkedin.com/in/abdulrehman-softwaredev/"><img width="45px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Abdul-Rehman420/Abdul-Rehman420/blob/main/icons8-linkedin-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:developer.abdulrehman007@gmail.com" alt="Discord" title="Dev Pro Tips Discord Server"><img width="42px" src="https://github.com/Abdul-Rehman420/Abdul-Rehman420/blob/main/icons8-email-64.png"/></a>
+  <a href="mailto:developer.abdulrehman007@gmail.com" alt="Discord" title="Dev Pro Tips Discord Server"><img width="45px" src="https://github.com/Abdul-Rehman420/Abdul-Rehman420/blob/main/icons8-email-64.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/abdulrehmansheikh8696/"><img width="42px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://github.com/Abdul-Rehman420/Abdul-Rehman420/blob/main/icons8-instagram-48.png"></a>
+  <a href="https://www.instagram.com/abdulrehmansheikh8696/"><img width="45px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://github.com/Abdul-Rehman420/Abdul-Rehman420/blob/main/icons8-instagram-48.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
