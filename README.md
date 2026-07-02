@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Abdul-Rehman420">
-    <img src="https://github.com/Abdul-Rehman420/Abdul-Rehman420/blob/main/BlackandWhiteCorporateNameTwitterHeader-ezgif.com-gif-maker.gif" alt="Jonah Lawrence" /></a>
+    <img src="https://github.com/Abdul-Rehman420/Abdul-Rehman420/blob/main/BlackandWhiteCorporateNameTwitterHeader-ezgif.com-gif-maker.gif" height="200" alt="Jonah Lawrence" /></a>
 </p>
 
 <p align="center">
