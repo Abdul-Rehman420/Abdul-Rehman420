@@ -5,8 +5,8 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20Developer%20🚀;UI%2FUX%20Designer%20🎨;2%2B%20Years%20of%20Experience%20💻;Always%20Learning%20New%20Things%20📚&font=Fira%20Code&center=true&width=500&height=60&color=00d4ff&vCenter=true&size=22&duration=4000" alt="Typing SVG" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+</h1> 
 
 <p align="center">
   <img src="https://github.com/Abdul-Rehman420/Abdul-Rehman420/blob/main/kyubey.gif" width="50" alt="Anime" />
